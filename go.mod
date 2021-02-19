@@ -12,7 +12,7 @@ require (
 	github.com/sirupsen/logrus v1.4.2
 	github.com/stretchr/testify v1.4.0
 	gopkg.in/square/go-jose.v2 v2.3.0 // indirect
-	k8s.io/api v0.16.9
+	k8s.io/api v0.20.4
 	k8s.io/apimachinery v0.16.9
 	k8s.io/client-go v0.16.9
 	k8s.io/code-generator v0.16.9
