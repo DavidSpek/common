@@ -13,7 +13,7 @@ require (
 	github.com/stretchr/testify v1.4.0
 	gopkg.in/square/go-jose.v2 v2.3.0 // indirect
 	k8s.io/api v0.16.9
-	k8s.io/apimachinery v0.16.9
+	k8s.io/apimachinery v0.20.4
 	k8s.io/client-go v0.16.9
 	k8s.io/code-generator v0.16.9
 	k8s.io/kube-openapi v0.0.0-20190816220812-743ec37842bf
